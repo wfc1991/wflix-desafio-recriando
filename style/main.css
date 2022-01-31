@@ -24,7 +24,7 @@ header .container{
 }
 
 header .logo{
-    margin-left: 6px;
+    margin-left: 5px;
     color: var(--vermelho);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 40px;
@@ -45,8 +45,8 @@ header nav a:hover{
 }
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/sex\ and\ the\ city\ fundo.jpg');
-    height: 500px;
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),url('/img/sex\ and\ the\ city\ fundo.jpg');
+    height: 400px;
     background-size: cover;
     display: flex;
     flex-direction: column;
